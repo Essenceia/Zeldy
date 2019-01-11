@@ -48,3 +48,4 @@ git submodule add <git_submodule_address>/<branch>
 ## License
 
 This code is released under the GNU GPL v3 public license.
+:smile:
