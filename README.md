@@ -1,5 +1,14 @@
 # Zeldy 
 
+Group project SERI Supelec 2018 : Tangy Renan, Simon Brelivet, Julia Desmazes
+
+Zeldy is an free software project for a small power monitoring system using an
+esp32 with custom hardware for data acquisition and sends it to a backend via
+HTTPS ( or optionally HTTP ). For the backend we are using a grafana + influxDB solution.
+
+A presentation of the project is available in [`Zeldy slides`](Zeldy_slides.pdf)
+in french.
+
 ## Project organisation 
 
 This project is organised in different submodules with eatch submodule containing a 
@@ -35,3 +44,7 @@ project. You can do this with :
 ```bash 
 git submodule add <git_submodule_address>/<branch>
 ```
+
+## License
+
+This code is released under the GNU GPL v3 public license.
