@@ -1,7 +1,5 @@
 # Zeldy 
 
-Group project SERI Supelec 2018 : Tangy Renan, Simon Brelivet, Julia Desmazes
-
 Zeldy is an free software project for a small power monitoring system using an
 esp32 with custom hardware for data acquisition and sends it to a backend via
 HTTPS ( or optionally HTTP ). For the backend we are using a grafana + influxDB solution.
